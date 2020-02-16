@@ -1,16 +1,11 @@
-# Spigot-Template
-template project for making spigot plugins
+# OutpostNerf
+Nerfs outposts and the guys they summon to make digging them out and dealing with them slightly less frustrating
 
 ## Features
-automatically downloads paper for testing your plugins without having to include it in your repo or install it every time you clone it
+none
 
-shades in paperlib
-
-uses bukkit api for more compatibility, but you can change it to spigot
-
-auto-fills plugin.yml based on gradle.properties
-
-auto-checks for main class to ensure it is valid
-
-already packs in shadow plugin
-
+# TODO
+config options for all of these
+  - summon pillagers with less health
+  - make the non-banner guys spawn less often
+  - spawn with slowness or other effects
